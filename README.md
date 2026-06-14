@@ -5,7 +5,7 @@ Il met en valeur les jeux *Pokémon HeartGold / SoulSilver* à travers une navig
 adaptée à trois formats d'écran, un système de **double thème dynamique** (HeartGold / SoulSilver),
 une **carte interactive** de la région de Johto, un **quiz fonctionnel** et une **galerie multimédia**.
 
-> Projet réalisé dans le cadre de l'UE **MM01 — Multimédia : du projet à la réalisation**
+> Projet réalisé dans le cadre de l'UE **MM01 - Multimédia : du projet à la réalisation**
 > à l'**Université de Technologie de Troyes (UTT)**.
 
 ---
@@ -19,7 +19,7 @@ une **carte interactive** de la région de Johto, un **quiz fonctionnel** et une
 | **Crédits** | 6 ECTS |
 | **Semestres** | Automne et Printemps |
 | **Public** | Tronc Commun (TC) |
-| **Responsable** | Nicolas Thorel — UTT, Troyes |
+| **Responsable** | Nicolas Thorel - UTT, Troyes |
 | **Langue** | Français (niveau B2) |
 | **Établissement** | Université de Technologie de Troyes |
 
@@ -48,9 +48,9 @@ création d'un site Web.
 
 ## Stack technique
 
-- **HTML5** — structure sémantique multi-pages.
-- **CSS3** — mise en page, responsive design, animations, thèmes.
-- **JavaScript vanilla** — interactivité (thème, quiz, carte, galerie), sans dépendance externe.
+- **HTML5** : structure sémantique multi-pages.
+- **CSS3** : mise en page, responsive design, animations, thèmes.
+- **JavaScript vanilla** : interactivité (thème, quiz, carte, galerie), sans dépendance externe.
 
 ## Structure du dépôt
 
@@ -79,10 +79,10 @@ python -m http.server 8000
 
 ## Outils utilisés
 
-- **Visual Studio Code** — développement.
-- **The GIMP** / **Squoosh** / **Convertio** — traitement et optimisation des images.
-- **Axure RP** / **Wireframe.cc** — maquettes et wireframes.
-- **FileZilla** / **WinSCP** — dépôt sur le serveur de l'UE.
+- **Visual Studio Code** : développement.
+- **The GIMP** / **Squoosh** / **Convertio** : traitement et optimisation des images.
+- **Axure RP** / **Wireframe.cc** : maquettes et wireframes.
+- **FileZilla** / **WinSCP** : dépôt sur le serveur de l'UE.
 
 ## Usage de l'IA
 
