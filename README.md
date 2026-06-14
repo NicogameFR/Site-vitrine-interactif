@@ -1,4 +1,4 @@
-# Site vitrine interactif — Pokémon HeartGold / SoulSilver
+# Site vitrine interactif : Pokémon HeartGold / SoulSilver
 
 Site web multi-pages conçu de A à Z en **HTML5, CSS3 et JavaScript vanilla**, sans framework.
 Il met en valeur les jeux *Pokémon HeartGold / SoulSilver* à travers une navigation responsive
